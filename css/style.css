@@ -174,7 +174,7 @@ body
 }
 .container1 .sec1 .home .left .left-bottom button::before
 {
-    content:"";
+  /*  content:""; */
     border-bottom-left-radius:50% ;
     height: 60px ;
     width: 60px;
@@ -186,7 +186,7 @@ body
 }
 .left-bottom button::after
 {
-    content:"";
+   /* content:""; */
     border-bottom-right-radius:50% ;
     border-top-right-radius:50% ;
     height: 60px ;
